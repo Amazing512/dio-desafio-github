@@ -1,2 +1,3 @@
 # dio-desafio-github
-Desafio de projeto sobre Git/Github
+
+Projeto utilizado para testar git clone usando SSH
